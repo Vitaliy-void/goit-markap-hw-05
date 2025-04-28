@@ -579,7 +579,13 @@ address {
     gap:16px;
     
 }
-
+.footer-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    margin-left: 80px;
+}
 .footer-socials-item {
     width: 40px;
     height: 40px;
@@ -661,7 +667,7 @@ address {
 }
 .subscribe-icon {
     width: 24px;
-    height: 20px;
+    height: 24px;
     fill: #fff;
 }
 .backdrop {
