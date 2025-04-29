@@ -875,7 +875,7 @@ address {
     transform: translateX(-50%);
     display: block;
 }
-.modal-checkbox-wraper input:checked + .form-checkmark {
+.modal-checkbox-wraper input:checked + label .form-checkmark {
     border-radius: 2px;
     fill: #F4F4FD;
     border: none;
