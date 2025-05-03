@@ -733,7 +733,7 @@ address {
     transform: translate(-50%, -50%) scale(1.5);
 }
 .modal-form {
-    padding-left: 24px;
+   
 }
 .input-wrapper {
     position: relative;
@@ -779,9 +779,8 @@ address {
     top: 50%;
     transform: translateY(-50%);
     left: 16px;
-    fill: #4D5AE5;
+    fill: #2e2f42;
     stroke-width: 1px;
-    stroke: rgba(0, 0, 0, 0.1);
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
